@@ -152,3 +152,14 @@ Defines subscript text
 Defines superscript text
 </sup>
 ```
+### list elements
+```
+Ordered List:
+<ol> Defines an ordered list </ol>
+
+Unordered List:
+<ul> Defines an unordered list </ul>
+
+List Item:
+<li>Defines an item in a list</li>
+```
