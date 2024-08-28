@@ -162,4 +162,9 @@ Unordered List:
 
 List Item:
 <li>Defines an item in a list</li>
+
+Description List:
+<dl> Defines a description list </dl>
+<dt> Defines a term in a definition list </dt>
+<dd> Defines the description of a term listed in a <dl> element </dd>
 ```
