@@ -1,6 +1,6 @@
 # Cortex AI Tech - Frontend Notes
 
-## 3rd Lecture (28-08-2024)
+## 3rd Lecture (27-08-2024)
 
 ### div element
 ```
