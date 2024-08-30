@@ -8,15 +8,13 @@ Used for forms with large amounts of text.
 ```
 ### img, map, area
 
-``` 
 These HTML tags are used to define a client-side image map. These allows you to create clickable areas within an image. When a user clicks on a defined area, the specified action (e.g., linking to a URL, opening a new window) is triggered.
 
 Format:
 
-1. Create an <img> element: Specify the image source using the src attribute.
-2. Create a <map> element: Give it a unique name attribute.
-3. Define areas within the <map>: Use <area> tags to specify the shape (rect, circle, poly), coordinates, and action (href) for each clickable area.
-```
+1. Create an < img > element: Specify the image source using the src attribute.
+2. Create a < map > element: Give it a unique name attribute.
+3. Define areas within the < map >: Use <area> tags to specify the shape (rect, circle, poly), coordinates, and action (href) for each clickable area.
 
 ### Inline CSS
 * Applies styles directly to individual HTML elements using the style attribute.
