@@ -1,6 +1,6 @@
 # Cortex AI Tech - Frontend Notes
 
-## 2nd Lecture (27-08-2024)
+## 2nd Lecture (26-08-2024)
 
 ### blockquote element
 ```
