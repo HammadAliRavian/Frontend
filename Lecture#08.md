@@ -1,5 +1,5 @@
 # Cortex AI Tech - Frontend Notes
-## 6th Lecture (02-09-2024)
+## 8th Lecture (04-09-2024)
 ### Link States in CSS
 Link states refer to the different visual appearances of a hyperlink based on its current state. CSS allows you to customize the style of links based on whether they are visited, hovered over, active, or focused.
 #### Common Link States:
