@@ -1,5 +1,5 @@
 # Cortex AI Tech - Frontend Notes
-## 6th Lecture (02-09-2024)
+## 7th Lecture (03-09-2024)
 ### Text Align in CSS
 The text-align property in CSS specifies the horizontal alignment of text within an element. It controls how the text is positioned relative to the element's width.
 #### Syntax:
